@@ -15,5 +15,3 @@ Features:
 - Customizable Settings (Grid Size, Color, Text Color, etc.)
 - Import Initial Game Board Patterns
 - Choose Finite or Torodial Universie Types
-
-Executable (demo) of the game is in the x64/Debug folder. 
